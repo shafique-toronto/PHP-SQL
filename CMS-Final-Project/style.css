@@ -1,0 +1,29 @@
+* {
+    background-color: white;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+
+}
+
+h1, h2 {
+    color: #333;
+    
+}
+
+input, textarea, select {
+    width: 300px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+hr {
+    margin: 20px 0;
+}
