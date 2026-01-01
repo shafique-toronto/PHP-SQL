@@ -113,7 +113,7 @@ Python, Java, and C#
 UI/UX and backend systems
 
 Shafique focuses on simplifying complex topics and teaching through real-world examples and projects.
-The Learn in 7 Days series was created to help beginners gain confidence quickly and build practical skills.
+The Learn in 7 Days series (available on Amazon) was created to help beginners gain confidence quickly and build practical skills.
 
 🎯 Who This Repository Is For
 
